@@ -1,0 +1,1 @@
+Azure AI Foundry -> Azure OpenAI -> ServiceNow API -> Auto Resolution
