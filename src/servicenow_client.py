@@ -1,0 +1,1 @@
+class ServiceNowClient: pass
